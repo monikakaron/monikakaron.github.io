@@ -1,10 +1,8 @@
 ---
 published: true
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This is my first post"
 ---
-
-## My new post
 
 This is some text that goes into my post
 
