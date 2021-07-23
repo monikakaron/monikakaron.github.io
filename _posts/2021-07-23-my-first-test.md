@@ -6,6 +6,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-## A New Post
+## My new post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This is some text that goes into my post
+
