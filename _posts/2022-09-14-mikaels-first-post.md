@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![bliss]({{site.baseurl}}/assets/images/teraz1.jpg){: .align-left}
+![bliss]({{site.baseurl}}![My little brother and his wife]({{site.baseurl}}/assets/images/teraz1.jpg){: .align-left}
 
 ## This is my first post!
 
