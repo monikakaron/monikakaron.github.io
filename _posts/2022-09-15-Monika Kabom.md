@@ -5,7 +5,7 @@ published: true
 _Photo by Jacek Ulinski on Unsplash_
   
 
-## This are my first crumbling steps on blog posting!
+## These are my first crumbling steps on blog posting!
 
 Trying to figure out how things work I´ve been digesting [Jekyll Tutorial for Beginners](https://blog.webjeda.com/jekyll-guide/) for my "first ever" writing/editing on a web site!
 
