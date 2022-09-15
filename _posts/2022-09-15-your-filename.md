@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![bliss]({{site.baseurl}}![My little brother and his wife]({{site.baseurl}}/assets/images/teraz1.jpg){: .align-left}
+![nice background]({{site.baseurl}}/assets/images/mihail-kostov-m9IwvQQvKY0-unsplash.jpg){: .align-left}
 
 
 
