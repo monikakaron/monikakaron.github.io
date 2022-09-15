@@ -4,7 +4,6 @@ published: true
 ![]({{site.baseurl}}/)![Autodromo Portimao]({{site.baseurl}}/assets/images/jacek-ulinski-r7QrH0572Fc-unsplash (1).jpg)
 _Photo by Jacek Ulinski on Unsplash_
   
-  
 
 ## This are my first crumbling steps on blog posting!
 
