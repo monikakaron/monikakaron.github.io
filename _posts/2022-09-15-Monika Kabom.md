@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
-![nice background]({{site.baseurl}}/assets/images/mihail-kostov-m9IwvQQvKY0-unsplash.jpg)
+![]({{site.baseurl}}/)![Autodromo Portimao]({{site.baseurl}}/assets/images/jacek-ulinski-r7QrH0572Fc-unsplash (1).jpg)
 _Photo by Jacek Ulinski on Unsplash_
   
   
@@ -12,4 +12,4 @@ Trying to figure out how things work I´ve been digesting [Jekyll Tutorial for B
 
 **Hurrah!!!** One never knows where this could end!
 
-As for now, keep fingers crossed for that the **good mode keeps going on :-)**
+As for now, keep fingers crossed for that the **good mood keeps going on :-)**
