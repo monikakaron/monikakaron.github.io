@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jekyll!
 published: true
 ---
-!(/assets/images/Cool_bikerlady.jpg)
+![Cooling](/assets/images/Cool_bikerlady.jpg)
 
 
 # Welcome
