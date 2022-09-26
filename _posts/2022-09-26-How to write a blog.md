@@ -11,6 +11,7 @@ published: true
 I hope you like it!
 
 # Besides that
-** I try to** insert a picture in the post..
-... which is shown in the pictur below:
-![My helpful screenshot](/assets/screenshot.jpg)
+ ****_I try to_**** insert a picture in the post..
+... which is shown as below:
+![My cool "stolen" picture](/assets/images/mihail-kostov-m9IwvQQvKY0-unsplash.jpg
+)
