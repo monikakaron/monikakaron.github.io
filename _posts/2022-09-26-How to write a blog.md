@@ -3,8 +3,9 @@ layout: post
 title: Welcome to Jekyll!
 published: true
 ---
+!(/assets/images/Cool_bikerlady.jpg)
 
-![bliss]({{site.baseurl}}(assets/images/Cool_bikerlady.jpg {: .align-left})
+
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
