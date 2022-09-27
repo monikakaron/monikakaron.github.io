@@ -6,7 +6,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/)![Cooling]({{site.baseurl}}//assets/images/Cool_bikerlady.jpg)
+![]({{site.baseurl}}/)![Cooling]({{site.baseurl}}/assets/images/Cool_bikerlady.jpg)
 
 # Welcome
 
