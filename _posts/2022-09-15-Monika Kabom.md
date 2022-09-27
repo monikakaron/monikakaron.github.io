@@ -1,6 +1,6 @@
 ---
 published: true
-excerpt: My crumbling first steps...
+excerpt: These are my first crumbling steps...
 ---
 ![]({{site.baseurl}}/)![Autodromo Portimao]({{site.baseurl}}/assets/images/jacek-ulinski-r7QrH0572Fc-unsplash (1).jpg)
 _Photo by Jacek Ulinski on Unsplash_
