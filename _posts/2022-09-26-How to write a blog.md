@@ -6,9 +6,9 @@ published: true
 
 
 
-![]({{site.baseurl}}/)![Cooling]({{site.baseurl}}/assets/images/Cool_bikerlady.jpg)
-
-# Welcome
+![]({{site.baseurl}}/)![coolbiker]({{site.baseurl}}/assets/images/Cool_bikerlady.jpg
+)
+![]({{site.baseurl}}/)![Autodromo Portimao]({{site.baseurl}}/assets/images/jacek-ulinski-r7QrH0572Fc-unsplash (1).jpg)
 
 **Hello world**, this is my first Jekyll blog post.
 
