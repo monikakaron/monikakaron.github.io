@@ -13,7 +13,7 @@ I do have an idea what I want to learn and why, but I am really really **_a newb
 
 First, I need to give a lot of cred to my baby brother that believes in me and just say..**_"of course you will make it, no probs sis!_** And then he starts to describe, explain, come with suggestions...and so forth...
 
-I love my brother, but... I am such a new beginner that I need basic tutorials to go forward. Now we are talking of **_really basic tutorials_**! I look at the text, the words, the commands and feel so...STUPID! Wondering how I ever could go through medical school, work as a senior project manager on "high valued" projects...and just don´t understand all the "curly braces", dots and links and "soft breaks". But....now the **HUGE ADVANTAGE** of **STUBBORNESS**!
+I love my brother, but... I am such a new beginner that I need basic tutorials to go forward. Now we are talking **_really basic tutorials_**! I look at the text, the words, the commands and feel so...STUPID! Wondering how I ever could go through medical school, work as a senior project manager on "high valued" projects...and just don´t understand all the "curly braces", dots and links and "soft breaks". But....now the **HUGE ADVANTAGE** of **STUBBORNESS**!
 
 **AND**, with hours invested I can conclude that:
 * [Markdown tutorial](https://markdowntutorial.com/), this is the place to start! Easy beginning and "_the base_"to have to understand basic commands when using Jekyll on GitHub.
