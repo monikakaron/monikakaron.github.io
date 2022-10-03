@@ -1,5 +1,5 @@
 
-![stitch]({{site.baseurl}}/assets/images/disney-stitch-7173_disney-logo.png){: .align-center}  Photo from Disney Logos 
+![stitch]({{site.baseurl}}/assets/images/disney-stitch-7173_disney-logo.png){: .align-center}  _Photo from Disney Logos _
 
 I am what people would call an ancient **dinosaurie** who am now taking my first crumbling steps to learn to create my own web page on GitHub with Jekyll.
 Trust me, this will be a _looong journey_ with loads of detours and fun misstakes, but if you would like to _"hop on"_ , I sure will enjoy the company. 
