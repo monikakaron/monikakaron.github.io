@@ -2,7 +2,7 @@
 published: true
 excerpt: Testing a whole different world
 ---
-# Testing a whole different world of new "fun" things with a lot of swearing and much help from my baby brother :-)
+# _**...of new "fun" things with a lot of swearing and much help from my baby brother :-)**_
 
 ![Thinking stitch](/assets/images/Stich.jpg){: .align-left} 
 _Post from Amazon com_
@@ -17,4 +17,3 @@ I love my brother, but... I am so a new beginner that I need basic tutorials to 
 
 BUT, now with hours invested I can conclude that:
 * [markdown tutorial] (https://www.markdowntutorial.com/), this is the place to start! Easy beginning and "_the base_"to have to understand basic commands when using Jekyll on GitHub.
-
