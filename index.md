@@ -7,7 +7,7 @@ Trust me, this will be a loong journey with loads of detours and fun misstakes, 
 
 Going through different tutorials I realise that there is a lot of **words, mindsets and "logics"** I need to get "**_my hands around_**" just to understand the basic. But, not giving up...**_going strong_**!
 
-As the web page is to be built up, you will see more features come along, so there is no **_logical_** start. Info just comes along the more I (hopefully) learn...The best ways to learn things are trying, testing, doing misstakes and trying again...so here we go :-)
+As the web page is to be built up, you will see more features come along, so there is no **_logical_** start. Info just comes along the more I (hopefully) learn...The best ways to learn things are trying, testing, doing misstakes and trying again...**so here we go :-)!**
 
 
 
