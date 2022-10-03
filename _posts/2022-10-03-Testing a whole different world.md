@@ -6,7 +6,7 @@ excerpt: Testing a whole different world
 
 ![Thinking stitch](/assets/images/Stich.jpg){: .align-left} 
 
-_Post from Amazon com_
+_Post from Amazon.com_
 
 Now, I a am a very _**very stubborn**_ person (my children will go in as guarantees for that) and that is something that probably will help me a _looong way_ through this journey.
 I do have an idea what I want to learn and why, but I am really really **_a newbee_**!
