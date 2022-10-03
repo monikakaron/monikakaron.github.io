@@ -1,4 +1,3 @@
-## Welcome to my personal site
 
 ![stitch]({{site.baseurl}}/assets/images/disney-stitch-7173_disney-logo.png){: .align-center}  Photo from Disney Logos 
 
@@ -12,7 +11,3 @@ As the web page will be built up, you will see more features come along, with no
 As wise people (and some other unknown characters) say:  
 "The best ways to learn things is trying, testing, doing misstakes and trying again"  
 ...**_so here we go :-)!_**
-
-
-
-
