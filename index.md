@@ -10,6 +10,6 @@ Going through different tutorials I realise that there is a lot of **words, mind
 As the web page will be built up, you will see more features come along, with no **_logical_** order or start. Info just coming along the more I (_hopefully_) learn...
 
 As wise people (and some other unknown characters) say:  
-"The best ways to learn things is trying, testing, doing mistakes, and trying again"  
+"The best ways to learn things is trying, testing, doing mistakes, and trying again".  
 ...**_so here we go :-)!_** 
 # **_Wish me luck!_**
