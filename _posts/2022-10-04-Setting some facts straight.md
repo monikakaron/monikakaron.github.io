@@ -18,5 +18,10 @@ Starting from scratch still means that I needed some good person having mercy to
 
 ... on my computer, but after that it´s me being **"the great hero" _wingling about and trying my best_ :-)**
 
+So going through tutorials and trying out different approaches... I´m moving forward. Doing that, one of the more interesting advices a "dinsoaurie" like me get is: _"if you have a question, just try to google it up"_ 
 
-[Jekyll Tutorial for Beginners](https://blog.webjeda.com/jekyll-guide/)
+Now, when the earth was young and we dinosaures where babies... the internet where just in its cradle. _"world wide web"_ , no one had ever heard of it! 
+
+Mobile phones...would still take years to come. What we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI)
+
+
