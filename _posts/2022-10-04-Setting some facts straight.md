@@ -9,7 +9,7 @@ excerpt: These are my first crumbling steps...
 _Photo by Tuenlines.com_
   
 I do realise my limitations, at least some of them...
-Starting from scratch still means that I need some good samaritan having mercy to help me to kick out from my "starting blocks". That person for me was (and still is) my baby brother. So, I have **_not_** installed:
+Starting from scratch still means that I need some good samaritan having the mercy to kick me out from my "starting blocks". That person for me was (and still is) my baby brother. So, I have **_not_** installed:
 
 * [GitHub](https://github.com/)
 * [Jekyll](https://jekyllrb.com/)
@@ -24,4 +24,4 @@ Now, when the earth was young and we dinosaurs were babies... the internet where
 
 _Mobile phones_ as we now use them as mini-computers... It would still take years for them to come. Fun fact when it comes to the phones, what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
 
-So...it is a bit of a new journey to just _"google it"_ and... an amazingly load of people write suggestions, thoughts, possibilites and _**eventually...there is a chance to get somewhere near the answer**._
+So...it is a bit of a new journey to just _"google it"_ and... an amazingly loads of people write suggestions, thoughts, possibilites and _**eventually...there is a chance to get somewhere near the answer**._
