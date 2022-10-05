@@ -11,9 +11,9 @@ _Photo by Tuenlines.com_
 I do realise my limitations, at least some of them...
 Starting from scratch still means that I need some good samaritan having mercy to help me to kick out from my "starting blocks". That person for me was (and still is) my baby brother. So, I have **_not_** installed:
 
-* [GitHub](www.github.com)
-* [Jekyll](www.jekyllrb.com)
-* [Prose](www.prose.io)  
+* [GitHub](https://github.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Prose](http://prose.io)  
 * [So Simple Themes- a Jekyll template](https://mmistakes.github.io/so-simple-theme/)
 
 ... on my computer, but after, that it´s me being **"the great hero"** _wingling about and trying my best_ :-)
