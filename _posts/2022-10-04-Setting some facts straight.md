@@ -2,14 +2,20 @@
 published: true
 excerpt: These are my first crumbling steps...
 ---
-![]({{site.baseurl}}/)![Autodromo Portimao]({{site.baseurl}}/assets/images/jacek-ulinski-r7QrH0572Fc-unsplash (1).jpg)
-_Photo by Jacek Ulinski on Unsplash_
+
+# **Now just to get some facts straight...**
+
+![Lilo and stith dancing](/assets/images/tuenlinea_com.jpeg)
+_Photo by Tuenlines.com_
   
+I do realise my limitations, at least some of them...
+Starting from scratch still means that I need some good people to help me in the "starting blocks". That person from me is my baby brother. So, I have not installed:
+* www.GitHub.com
+* www.Jekyll.com
+* www.Prose.com
+* a Jekyll template 
 
-## These are my first crumbling steps on blog posting!
+... on my computer, but after that it´s me being **"the great hero"** _wingling about and trying my best_ **:-)**
 
-Trying to figure out how things work I´ve been digesting [Jekyll Tutorial for Beginners](https://blog.webjeda.com/jekyll-guide/) for my "first ever" writing/editing on a web site!
 
-**Hurrah!!!** One never knows where this could end!
-
-As for now, keep fingers crossed for that the **good mood keeps going on :-)**
+[Jekyll Tutorial for Beginners](https://blog.webjeda.com/jekyll-guide/) 
