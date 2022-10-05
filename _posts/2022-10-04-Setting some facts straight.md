@@ -20,7 +20,7 @@ Starting from scratch still means that I need some good samaritan having mercy t
 
 Going through tutorials and trying out different approaches... I´m slowly moving forward. Doing that, one of the more interesting pieces of advice a "dinosaur" like me gets is: _**"if you have a question, just google it"**_ 
 
-Now, when the earth was young and we dinosaurs were babies... the internet where just in its cradle. _**"World wide web"_ , no one had ever heard of it**! Computers were not in _every man´s possession_.
+Now, when the earth was young and we dinosaurs were babies... the internet where just in its cradle. _**"World wide web", no one had ever heard of it**_ ! Computers were not in _every man´s possession_ .
 
 _Mobile phones_ as we now use them as mini-computers... It would still take years for them to come. Fun fact when it comes to the phones, what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
 
