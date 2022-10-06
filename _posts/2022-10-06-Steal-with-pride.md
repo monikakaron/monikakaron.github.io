@@ -1,15 +1,22 @@
 ---
 published: true
 ---
-# _**...one of the absolutely best advices ever received: STEAL WITH PRIDE!**_
+# _**...one of the best pieces of advice ever received: STEAL WITH PRIDE!**_
 
 ![Charming stitch](/assets/images/Stitch-is-da-Alien-walt-disney-characters-21770948-700-535.jpeg){: .align-right} 
 
 _Source: kaykaykit @ DeviantArt_
 
-Now, I am a very, _**very stubborn**_ person (my children will go in as guarantees for that) and that is something that probably will help me a _looong way_ through this journey.
-I do have an idea of what I want to learn and why, but I am really (really) **_a newbie_**!
+# You don’t always need to reinvent the wheel, a simple re-design will do.
 
-First, I need to give a lot of cred to my baby brother that believes in me and just says ...**_"of course you will make it, no probs sis!_** And then he starts to describe, explain, come up with suggestions...and so forth...
+There is no use to invent things that already exist. **Use what you can find**, but don´t forget to **give credit to "the inventor"**. 
 
-I love my brother, but... I am such a new beginner that I need basic tutorials to go forward. Now we are talking **_basic tutorials_**! I look at the text, the words, the commands and feel so...STUPID! Wondering how I ever could go through medical school, work as a senior project manager on "high profile" projects...and just don´t understand all the "curly braces", dots and links, and "soft breaks". But....now the **HUGE ADVANTAGE** of **STUBBORNNESS**!
+This way of thinking works splendidly even for learning how to write blog-posts. Copy the programming from a post from someone you know, try to figure out how it is written, re-design it so it works for you, and...publish. 
+
+This is what I did when writing my first post; nicked a written one from my brother and then..._**stared at the text**_ !!! Wuuuha! I stared at it for quite a while, not figuring out the "syntax" or the "meanings". Realised in _**one dazzling moment**_ _I need to read/go through the **basic tutorials**_ ! Some basic coding to **understand** "commands" somewhere hidden in all this _magic coding text_ 
+
+Now, this is where I´m struggling along now, the basic tutorials. Moving extremely slowly one baby step at a time...but _**having fun**_ and going in the right direction; **forward!**
+
+Another insight today was...this web-template I´m using is a template for blog posts. So to follow my crumbling experiences creating a web-page with several pages, index, thumb nails, and so forth will be in a separate repository. _**More info to come, soon, don´t want to use the fans (optimist as I am) I have.**_
+
+### TAKE CARE :-)!
