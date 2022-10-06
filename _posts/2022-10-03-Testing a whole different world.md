@@ -5,6 +5,7 @@ excerpt: Testing a whole different world
 # _**...of new "fun" things with a lot of swearing and much help from my baby brother :-)**_
 
 ![Thinking stitch](/assets/images/Stitch_OfficialDisney.webp){: .align-left} 
+
 _Photo from official Disney webpage_
 
 Now, I am a very, _**very stubborn**_ person (my children will go in as guarantees for that) and that is something that probably will help me a _looong way_ through this journey.
