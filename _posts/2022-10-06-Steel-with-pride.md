@@ -1,9 +1,9 @@
 ---
 published: false
 ---
-# _**...of new "fun" things with a lot of swearing and much help from my baby brother :-)**_
+# _**...one of the absolutely best advices ever received: STEAL WITH PRIDE!**_
 
-![Thinking stitch](/assets/images/Stitch_OfficialDisney.webp){: .align-left} 
+![Charming stitch](/assets/images/Stitch-is-da-Alien-walt-disney-characters-21770948-700-535.jpeg){: .align-right} 
 
 _Source: kaykaykit @ DeviantArt_
 
