@@ -27,4 +27,3 @@ _Mobile phones_ as we now use them as mini-computers... It will still take years
 
 So...it is a bit of a new journey to just _"google it"_ and... amazingly loads of people write suggestions, thoughts, possibilities, and _**eventually...there is a chance to get somewhere near the answer**._
 
-[Lilo and sweet stitch dancing]:https://github.com/monikakaron/assets/images/tuenlinea_com.jpeg
