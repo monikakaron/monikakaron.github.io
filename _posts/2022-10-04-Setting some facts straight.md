@@ -5,7 +5,7 @@ excerpt: These are my first crumbling steps...
 
 # **Now just to get some facts straight...**
 
-![Lilo and stitch](assets/images/tuenlinea_com.jpeg)
+![Lilo and stitch](/assets/images/tuenlinea_com.jpeg)
 
 _Photo by Tuenlines.com_
   
