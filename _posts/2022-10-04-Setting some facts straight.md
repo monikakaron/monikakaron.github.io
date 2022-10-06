@@ -5,7 +5,7 @@ excerpt: These are my first crumbling steps...
 
 # **Now just to get some facts straight...**
 
-![Lilo and stitch dancing](/assets/images/tuenlinea_com.jpeg)
+![Lilo and stitch dancing][Lilo and sweet stitch dancing]
 _Photo by Tuenlines.com_
   
 I do realise my limitations, at least some of them...
@@ -25,3 +25,5 @@ Now, when the earth was young and we dinosaurs were babies... the internet where
 _Mobile phones_ as we now use them as mini-computers... It will still take years for them to come. Fun fact when it comes to the phones; what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
 
 So...it is a bit of a new journey to just _"google it"_ and... amazingly loads of people write suggestions, thoughts, possibilities, and _**eventually...there is a chance to get somewhere near the answer**._
+
+[Lilo and sweet stitch dancing]:https://github.com/monikakaron/assets/images/tuenlinea_com.jpeg 
