@@ -7,7 +7,7 @@ published: true
 
 _Source: kaykaykit @ DeviantArt_
 
-# You don’t always need to reinvent the wheel, a simple re-design will do.
+# You don’t always need to re-invent the wheel, a simple re-design will do.
 
 There is no use to invent things that already exist. **Use what you can find**, but don´t forget to **give credit to "the inventor"**. 
 
