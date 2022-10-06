@@ -22,6 +22,6 @@ Going through tutorials and trying out different approaches... I´m slowly movin
 
 Now, when the earth was young and we dinosaurs were babies... the internet where just in its cradle. _**"World wide web", no one had ever heard of it**_ ! Computers were not in _every man´s possession_ .
 
-_Mobile phones_ as we now use them as mini-computers... It would still take years for them to come. Fun fact when it comes to the phones, what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
+_Mobile phones_ as we now use them as mini-computers... It will still take years for them to come. Fun fact when it comes to the phones; what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
 
 So...it is a bit of a new journey to just _"google it"_ and... amazingly loads of people write suggestions, thoughts, possibilities, and _**eventually...there is a chance to get somewhere near the answer**._
