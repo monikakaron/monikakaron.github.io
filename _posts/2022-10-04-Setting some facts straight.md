@@ -16,12 +16,13 @@ Starting from scratch still means that I need some good samaritan having the mer
 * [Prose](http://prose.io)  
 * [So Simple Themes- a Jekyll template](https://mmistakes.github.io/so-simple-theme/)
 
-... on my computer, but after, that it´s me being **"the great hero"** _wingling about and trying my best_ :-)
+... on my computer, but after, that it´s me being **"the great hero"** _stumbling about and trying my best_ :-)
 
-Going through tutorials and trying out different approaches... I´m slowly moving forward. Doing that, one of the more interesting pieces of advice a "dinosaur" like me gets is: _**"if you have a question, just google it"**_ 
+Going through tutorials and trying out different approaches... I´m slowly moving forward. Doing that, one of the more interesting pieces of advice a "dinosaur" like me gets is _**"if you have a question, just google it"**_ 
 
 Now, when the earth was young and we dinosaurs were babies... the internet where just in its cradle. _**"World wide web", no one had ever heard of it**_ ! Computers were not in _every man´s possession_ .
 
 _Mobile phones_ as we now use them as mini-computers... It would still take years for them to come. Fun fact when it comes to the phones, what we had was this: [teenagers figuring out a stationary phone](https://www.youtube.com/watch?v=oHNEzndgiFI). Amazing, isn´t it? What the youngsters are unaware of and will never understand the charm of (**giggles**).
 
-So...it is a bit of a new journey to just _"google it"_ and... an amazingly loads of people write suggestions, thoughts, possibilites and _**eventually...there is a chance to get somewhere near the answer**._
+So...it is a bit of a new journey to just _"google it"_ and... amazingly loads of people write suggestions, thoughts, possibilities, and _**eventually...there is a chance to get somewhere near the answer**._
+
