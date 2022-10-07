@@ -17,6 +17,6 @@ This is what I did when writing my first post; nicked a written one from my brot
 
 Now, this is where I´m struggling along now, the basic tutorials. Moving extremely slowly one baby step at a time...but _**having fun**_ and going in the right direction; **forward!**
 
-Another insight today was...this web-template I´m using is a template for blog posts. So to follow my crumbling experiences creating a web-page with several pages, index, thumb nails, and so forth will be in a separate repository. _**More info to come, soon, don´t want to use the fans (optimist as I am) I have.**_
+Another insight today was...this web-template I´m using is a template for blog posts. So to follow my crumbling experiences creating a web-page with several pages, index, thumb nails, and so forth will be in a separate repository. _**More info to come, soon, don´t want to loose the fans (optimist as I am) I have.**_
 
 ### TAKE CARE :-)!
