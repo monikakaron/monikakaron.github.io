@@ -3,7 +3,7 @@ published: true
 ---
 # _**...one of the best pieces of advice ever received: STEAL WITH PRIDE!**_
 
-![Charming stitch](/assets/images/Stitch-is-da-Alien-walt-disney-characters-21770948-700-535.jpeg){: .align-right} 
+![Charming stitch][Charming stitch image]{: .align-right} 
 
 _Source: kaykaykit @ DeviantArt_
 
@@ -20,3 +20,6 @@ Now, this is where I´m struggling along now, the basic tutorials. Moving extrem
 Another insight today was...this web-template I´m using is a template for blog posts. So to follow my crumbling experiences creating a web-page with several pages, index, thumb nails, and so forth will be in a separate repository. _**More info to come, soon, don´t want to loose the fans (optimist as I am) I have.**_
 
 ### TAKE CARE :-)!
+
+[Charming stitch image]: https://monikakaron.github.io/assets/images/Stitch-is-da-Alien-walt-disney-characters-21770948-700-535.jpeg
+
