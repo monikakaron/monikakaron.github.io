@@ -9,7 +9,10 @@ Excerpt: >-
   updated...
 ---
 
-# _ ...realising that what was once learned, doesn´t stay forever if not contiuously updated..._
+
+ ## _realising that what was once learned, doesn´t stay forever if not contiuously updated_ 
+
+
 
 
 ![Charming stitch playing guitar][Stitch with guitar]{: .align-center} 
