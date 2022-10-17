@@ -14,7 +14,6 @@ Excerpt: >-
 
 
 
-
 ![Charming stitch playing guitar][Stitch with guitar]{: .align-center} 
 
 _source: https://disney.fandom.com/wiki/Stitch/Gallery_
