@@ -2,11 +2,12 @@
 published: true
 my-variable: _posts/2022-10-04-Setting some facts straight.md
 Excerp: >-
-  ...realising that what was once learned, doesn´t stay forever if not
-  contiuously updated...
+  realising that what was once learned, doesn´t stay forever if not contiuously
+  updated...
 ---
 
 #  ...realising that what was once learned, doesn´t stay forever if not contiuously updated...
+
 
 ![Charming stitch playing guitar][Stitch with guitar]{: .align-center} 
 
@@ -30,7 +31,6 @@ Now, I need to return to the fact that I don´t do this alone, not at all, there
 
 In my "parallell world" I try really hard to understand how to build a website, from scratch. Step by step I´m going through [Quick Start Jekyll Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/). My repository ["Hello-world"](https://kabom.eu/Hello-world/index.html) is **VERY VERY slowly** building up...
 _**but it´s coming; HANG ON THERE!!**_
-
 
 
 
