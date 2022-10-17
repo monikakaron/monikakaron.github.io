@@ -10,7 +10,7 @@ Excerpt: >-
 ---
 
 
- ## _realising that what was once learned, doesn´t stay forever if not contiuously updated_ 
+ # _realising that what was once learned, doesn´t stay forever if not contiuously updated_ 
 
 
 
