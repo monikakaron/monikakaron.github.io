@@ -19,7 +19,8 @@ I´m a fan of to slim work as much as possible, and this also includes managemen
 
 I really favour that there is only **ONE place of origin**, one place where you need to go if you have a change to do. 
 
-![thumbs-up_1f44d.png]({{site.baseurl}}/_posts/thumbs-up_1f44d.png)
+![Thumbs-up-winking][Thumbs-up]{: .align-center} 
+
 _source: https://emojipedia.org/thumbs-up/_
 
 Now, I need to return to the fact that I don´t do this alone, not at all, therefore...
@@ -32,3 +33,4 @@ _**but it´s coming; HANG ON THERE!!**_
 
 
 [Stitch with guitar]:https://monikakaron.github.io/assets/images/Cliplilo9_Stitch.webp
+[Thumbs-up]:https://monikakaron.github.io/assets/images/thumbs-up_1f44d.png
