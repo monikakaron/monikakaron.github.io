@@ -22,10 +22,12 @@ I really favour that there is only **ONE place of origin**, one place where you 
 _source: https://emojipedia.org/thumbs-up/_
 
 Now, I need to return to the fact that I don´t do this alone, not at all, therefore...
-[setting some facts straight]({%post_url2022-10-04-Setting-some-facts-straight%}), many thanks to my baby brother!!!
+[setting some facts straight]({% post_url 2022-10-04-Setting-some-facts-straight %}), many thanks to my baby brother!!!
 
 In my "parallell world" I try really hard to understand how to build a website, from scratch. Step by step I´m going through [Quick Start Jekyll Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/). My repository ["Hello-world"](https://kabom.eu/Hello-world/index.html) is **VERY VERY slowly** building up...
 _**but it´s coming; HANG ON THERE!!**_
+
+
 
 
 [Stitch with guitar]:https://monikakaron.github.io/assets/images/Cliplilo9_Stitch.webp
