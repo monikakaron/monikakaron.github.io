@@ -5,9 +5,11 @@ Excerp: >-
   ...realising that what was once learned, doesn´t stay forever if not
   contiuously updated...
 ---
-# ...realising that what was once learned, doesn´t stay forever if not contiuously updated...
+
+#  ...realising that what was once learned, doesn´t stay forever if not contiuously updated...
 
 ![Charming stitch playing guitar][Stitch with guitar]{: .align-center} 
+
 _source: https://disney.fandom.com/wiki/Stitch/Gallery_
 
 So **ALL** knew knowledge, very hard struggled to learn and take in, needs to be _**reiterized and reiterized many many times**_ to have even the slightest chance to stay in this old dinosaurs brain **:-).**
