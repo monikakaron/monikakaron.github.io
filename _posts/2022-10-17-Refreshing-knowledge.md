@@ -16,6 +16,6 @@ I´m a fan of to slim work as much as possible, and this also includes managemen
 I really favour that there is only **ONE place of origin**, one place where you need to go if you have a change to do. 
 
 
-[setting some facts straight]({%post_url 2022-10-04-Setting some facts straight%})
+[setting some facts straight]({% post_url 2022-10-04-Setting some facts straight %})
 
 [Stitch with guitar]:https://monikakaron.github.io/assets/images/Cliplilo9_Stitch.webp
