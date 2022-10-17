@@ -1,6 +1,9 @@
 ---
 published: true
 my-variable: _posts/2022-10-04-Setting some facts straight.md
+Excerp: >-
+  ...realising that what was once learned, doesn´t stay forever if not
+  contiuously updated...
 ---
 # ...realising that what was once learned, doesn´t stay forever if not contiuously updated...
 ![Charming stitch playing guitar][Stitch with guitar]{: .align-center} 
