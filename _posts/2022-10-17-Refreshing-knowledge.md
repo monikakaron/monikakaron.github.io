@@ -8,7 +8,9 @@ Excerpt: >-
   realising that what was once learned, doesn´t stay forever if not contiuously
   updated
 ---
- # realising that what was once learned, doesn´t stay forever if not contiuously updated 
+
+ 
+# realising that what was once learned, doesn´t stay forever if not contiuously updated 
 
 
 
