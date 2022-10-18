@@ -6,7 +6,7 @@ Excerp: >-
   updated...
 Excerpt: >-
   realising that what was once learned, doesn´t stay forever if not contiuously
-  updated...
+  updated
 ---
  # realising that what was once learned, doesn´t stay forever if not contiuously updated 
 
