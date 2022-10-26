@@ -19,4 +19,3 @@ If you don´t, you will not end up with a viable solution and you will try to fi
 
 
 [Stitch cuddlying and resting]:https://monikakaron.github.io/assets/images/Stitch_cuddley.jpeg
-
