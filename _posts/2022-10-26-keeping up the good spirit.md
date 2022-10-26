@@ -17,8 +17,4 @@ So, count it from the beggining!!!
 
 
 
-
-
-
-
 [Stitch cuddlying and resting]:https://monikakaron.github.io/assets/images/Stitch_cuddley.jpeg
